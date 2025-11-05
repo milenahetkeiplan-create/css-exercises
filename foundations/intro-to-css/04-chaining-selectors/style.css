@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+.avatar {
+    border-width: 10px;
+    border-color: green;
+}
