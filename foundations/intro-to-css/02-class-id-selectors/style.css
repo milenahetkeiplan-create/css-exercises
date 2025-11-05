@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.red {
+    background-color: #FF2E2E;
+    font-family: 'Verdana', 'dejaVu Sans', 'sans-serif';
+}
+
+#blue {
+    color: #5C5CFF;
+    font-size: 36px;
+}
