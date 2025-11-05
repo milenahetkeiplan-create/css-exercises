@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.buttonb,
+.buttony {
+    font-size: 28px;
+    font-family: 'helvetica', 'times New Roman', 'sans-serif';
+}
+
+.buttonb {
+    background-color: black;
+    color: white;
+}
+
+.buttony {
+    background-color: yellow;
+}
