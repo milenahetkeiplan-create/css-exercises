@@ -1,5 +1,6 @@
 /* Add CSS Styling */
-.red {
+.red,
+.red2 {
     background-color: #FF2E2E;
     font-family: 'Verdana', 'dejaVu Sans', 'sans-serif';
 }
@@ -7,4 +8,8 @@
 #blue {
     color: #5C5CFF;
     font-size: 36px;
+}
+
+.red2 {
+    font-size: 24px;
 }
